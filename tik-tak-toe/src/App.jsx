@@ -1,10 +1,11 @@
 import React from 'react'
-import Square from './componenets/Square'
+import Board from './componenets/Board'
+
 
 function App() {
   return (
     <div>
-      <Square/>
+      <Board />
     </div>
   )
 }
